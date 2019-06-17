@@ -9,8 +9,6 @@ A collection of all of my Angular applications/examples
 </p> 
 
 <h1>Angular Bootcamp</h1>
-<br>
-<br>
 <p>
   This is an application that was being built over time during a three day Angular bootcamp. It is unfinished but I would like to finish it in the future.
 </p>
