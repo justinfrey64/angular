@@ -8,7 +8,7 @@ A collection of all of my Angular applications/examples
 <p> 
 </p> 
 
-<h1>Angular Bootcamp/h1>
+<h1>Angular Bootcamp</h1>
 <br>
 <br>
 <p>
